@@ -6,6 +6,7 @@ theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
+enableRobotsTXT = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -112,6 +113,7 @@ content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
 [params.cookies]
 enable = true
 expire_days = 2
+
 
 
 ############################# social site ########################
