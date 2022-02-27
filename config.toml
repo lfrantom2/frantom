@@ -116,9 +116,9 @@ expire_days = 2
 
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "google"
+icon = "ti-google" # themify icon : https://themify.me/themify-icons
+link = "https://google.com"
 
 [[params.social]]
 title = "twitter"
