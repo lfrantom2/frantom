@@ -1,4 +1,4 @@
-######################## default configuration ####################
+######################## default configuration ######################
 baseURL = "https://example.com"
 languageCode = "en-us"
 title = "Liva | Personal blog template"
